@@ -1,0 +1,42 @@
+/* Sergio Y Cano 
+csc 102
+1.2 Assignment
+*/
+
+
+body
+{
+  /* background-color: royalblue; */
+ /*background-image: linear-gradient(red,gold);*/
+ background-image: radial-gradient(blue,grey);
+ background-repeat: no-repeat;
+}
+
+    
+nav{
+    background-color: yellow;
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+header{
+    text-align: center;
+}
+image{margin: right 200px;}
+
+    background-color: antiquewhite;
+    color: black;
+    border-color: beige;
+    border-width: 2px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+   
+
+
